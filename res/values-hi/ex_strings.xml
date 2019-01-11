@@ -17,7 +17,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Swipe to delete conversation -->
+    <string name="swipe_to_delete_conversation_pref_title">हटाने के लिए स्वाइप करें</string>
+    <string name="swipe_to_delete_conversation_pref_summary">वार्तालाप को हटाने के लिए दाईं ओर स्वाइप करें</string>
     <!-- Show emoticons -->
+    <string name="show_emoticons_pref_title">इमोटिकॉन्स का उपयोग</string>
+    <string name="show_emoticons_pref_summary">कुंजीपटल पर इमोटिकॉन कुंजी दिखाएं</string>
     <!-- Audio Library Tab for MMS attachments -->
+    <string name="mediapicker_galleryChooserDescription_cm">इस डिवाइस से चित्र या वीडियो चुनें</string>
+    <string name="mediapicker_audioListChooserDescription">इस डिवाइस से ऑडियो फ़ाइलें चुनें</string>
+    <string name="mediapicker_gallery_image_item_attachment_too_large">वीडियो अनुलग्न नहीं हो सकता। संदेश का आकार अधिकतम सीमा से पार हो गया है।</string>
+    <string name="mediapicker_audio_list_title">ऑडियो चुनें</string>
+    <string name="mediapicker_audio_list_item_selected_content_description">चयनित ऑडियो</string>
+    <string name="mediapicker_audio_list_item_unselected_content_description">चुनने के लिए टैप करें</string>
+    <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> चयनित</string>
     <!-- Shortcuts -->
+    <string name="shortcuts_compose_new">नया संदेश</string>
 </resources>

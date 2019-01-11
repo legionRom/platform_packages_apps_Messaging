@@ -29,6 +29,7 @@
     <string name="mediapicker_audio_list_title">เลือกไฟล์เสียง</string>
     <string name="mediapicker_audio_list_item_selected_content_description">เสียงที่เลือก</string>
     <string name="mediapicker_audio_list_item_unselected_content_description">แตะเพื่อเลือก</string>
+    <string name="mediapicker_audio_list_title_selection"><xliff:g id="จำนวน">%d</xliff:g> ถูกเลือก</string>
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">ข้อความใหม่</string>
 </resources>

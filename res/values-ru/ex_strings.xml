@@ -21,7 +21,7 @@
     <string name="swipe_to_delete_conversation_pref_summary">Проведите вправо для удаления диалога</string>
     <!-- Show emoticons -->
     <string name="show_emoticons_pref_title">Доступ к смайлам</string>
-    <string name="show_emoticons_pref_summary">Показывать иконку смайлов на клавиатуре</string>
+    <string name="show_emoticons_pref_summary">Показывать иконку эмодзи на клавиатуре</string>
     <!-- Audio Library Tab for MMS attachments -->
     <string name="mediapicker_galleryChooserDescription_cm">Выбрать изображения или видео на этом устройстве</string>
     <string name="mediapicker_audioListChooserDescription">Выбрать аудио файлы на этом устройстве</string>

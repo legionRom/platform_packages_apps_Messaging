@@ -20,7 +20,7 @@
     <string name="swipe_to_delete_conversation_pref_title">滑動以刪除</string>
     <string name="swipe_to_delete_conversation_pref_summary">向右滑動即可刪除對話</string>
     <!-- Show emoticons -->
-    <string name="show_emoticons_pref_title">表情符號使用</string>
+    <string name="show_emoticons_pref_title">存取表情符號</string>
     <string name="show_emoticons_pref_summary">在鍵盤上顯示表情符號按鍵</string>
     <!-- Audio Library Tab for MMS attachments -->
     <string name="mediapicker_galleryChooserDescription_cm">從這個裝置中選擇圖片或影片</string>
