@@ -17,8 +17,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Swipe to delete conversation -->
-    <string name="swipe_to_delete_conversation_pref_title">Проведите для удаления</string>
-    <string name="swipe_to_delete_conversation_pref_summary">Проведите вправо для удаления диалога</string>
+    <string name="swipe_to_delete_conversation_pref_title">Свайп для удаления</string>
+    <string name="swipe_to_delete_conversation_pref_summary">Свайп вправо для удаления разговора</string>
     <!-- Show emoticons -->
     <string name="show_emoticons_pref_title">Доступ к смайлам</string>
     <string name="show_emoticons_pref_summary">Показывать иконку эмодзи на клавиатуре</string>
@@ -32,4 +32,5 @@
     <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> выбрано</string>
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">Новое сообщение</string>
+    <!-- Mark message as read -->
 </resources>

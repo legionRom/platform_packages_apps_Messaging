@@ -27,9 +27,10 @@
     <string name="mediapicker_audioListChooserDescription">从设备中选择音频文件</string>
     <string name="mediapicker_gallery_image_item_attachment_too_large">无法附加视频。附件大小超过最大上限。</string>
     <string name="mediapicker_audio_list_title">选择音频</string>
-    <string name="mediapicker_audio_list_item_selected_content_description">选择音频</string>
+    <string name="mediapicker_audio_list_item_selected_content_description">选定的音频</string>
     <string name="mediapicker_audio_list_item_unselected_content_description">点击以选择</string>
     <string name="mediapicker_audio_list_title_selection">已选择<xliff:g id="Count">%d</xliff:g>项</string>
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">新消息</string>
+    <!-- Mark message as read -->
 </resources>

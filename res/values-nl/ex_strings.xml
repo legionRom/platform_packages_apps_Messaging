@@ -32,4 +32,5 @@
     <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> geselecteerd</string>
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">Nieuw bericht</string>
+    <!-- Mark message as read -->
 </resources>

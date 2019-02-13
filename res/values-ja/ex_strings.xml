@@ -32,4 +32,5 @@
     <string name="mediapicker_audio_list_title_selection"><xliff:g id="COUNT">%d</xliff:g>件選択済み</string>
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">新しいメッセージ</string>
+    <!-- Mark message as read -->
 </resources>
